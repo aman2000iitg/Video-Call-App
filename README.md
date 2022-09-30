@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/moonboi1/Video-Conferencing-Project.git
+  git clone https://github.com/aman2000iitg/Video-Call-App.git
 ```
 
 Go to the project directory
@@ -46,6 +46,6 @@ After the above setup visit http://localhost:3030/ and the enjoy the project.
 
 ## Authors
 
-- [@moonboi1](https://www.github.com/moonboi1)
+- [@aman2000iitg](https://www.github.com/aman2000iitg)
 
   
